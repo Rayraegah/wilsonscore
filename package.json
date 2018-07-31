@@ -1,0 +1,16 @@
+{
+    "name": "wilsonscore.js",
+    "version": "1.0.0",
+    "description": "The best comment sorting algorithm used by reddit",
+    "main": "index.js",
+    "scripts": {
+        "test": "node tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "TBD"
+    },
+    "keywords": ["wilson", "reddit", "sort", "algorithm", "javascript"],
+    "author": "Rayraegah",
+    "license": "MIT"
+}
